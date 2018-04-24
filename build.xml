@@ -21,7 +21,7 @@
     <property name="out" location="./out" />
 
     <!-- XML-FO Processor -->
-    <property name="fop" value="fop" />
+    <property name="fop" value="fop-1.1/fop" />
 
     <!-- XSL Processor -->
     <property name="xsltproc" value="xsltproc" />
